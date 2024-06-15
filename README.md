@@ -34,7 +34,7 @@ To get started with this project, clone the repository and install the required 
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/flask-brotli-compression.git
+    git clone https://github.com/naorzkall/flask-brotli-compression.git
     cd flask-brotli-compression
     ```
 2. Install the required dependencies:
